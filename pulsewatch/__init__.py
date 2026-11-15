@@ -1,0 +1,1 @@
+"""PulseWatch local monitoring MVP."""
